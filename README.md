@@ -1,4 +1,4 @@
-# chat_app
+### chat_app
 -Run git clone https://github.com/shubh010cloud/chat_app.git in vs code terminal to import all the files
 -Run npm install to install the dependencies required for the app
 -Run cd ./server to change the directory to server folder

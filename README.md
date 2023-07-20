@@ -1,11 +1,8 @@
-### chat_app
--Run git clone https://github.com/shubh010cloud/chat_app.git in vs code terminal to import all the files
--Run npm install to install the dependencies required for the app
--Run cd ./server to change the directory to server folder
--Run nodemon server.js to create and run a server
--Open a new terminal 
--Change directory to client folder
--Run npm start to open the app
--Enter any username and a Room ID to create a personal chat Room
--Copy the URL and open same in incognito for another user
--Enter username for another user and same Room ID to chat with first person
+### Steps to Run the Chat App
+
+1. Clone the repository:
+git clone https://github.com/shubh010cloud/chat_app.git
+
+2. Install the dependencies required for the app:
+npm install
+
